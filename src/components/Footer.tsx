@@ -11,7 +11,7 @@ const Footer = () => (
             <div className="w-8 h-8 bg-brand-primary rounded-lg flex items-center justify-center">
               <Star className="text-white w-5 h-5" />
             </div>
-            <span className="font-display font-bold text-xl tracking-tighter text-white">NEXUS EVENTS</span>
+            <span className="font-display font-bold text-xl tracking-tighter text-white">SAVORY EVENTS</span>
           </div>
           <p className="text-slate-400 max-w-sm mb-8">
             The world's leading event management agency specializing in high-end corporate and social experiences.
@@ -34,14 +34,14 @@ const Footer = () => (
         <div>
           <h4 className="font-bold mb-6 text-white">Contact Us</h4>
           <ul className="space-y-4 text-slate-400">
-            <li className="flex items-center gap-3"><Mail className="w-4 h-4" /> hello@nexusevents.com</li>
+            <li className="flex items-center gap-3"><Mail className="w-4 h-4" /> hello@savoryevents.com</li>
             <li className="flex items-center gap-3"><Phone className="w-4 h-4" /> +1 (555) 123-4567</li>
             <li className="flex items-center gap-3"><MapPin className="w-4 h-4" /> 123 Event Plaza, NY</li>
           </ul>
         </div>
       </div>
       <div className="pt-8 border-t border-white/5 text-center text-slate-500 text-sm">
-        © 2026 Nexus Events Management. All rights reserved.
+        © 2026 Savory Events Management. All rights reserved.
       </div>
     </div>
   </footer>
